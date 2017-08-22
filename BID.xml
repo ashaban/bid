@@ -1,0 +1,40 @@
+<CSD xmlns="urn:ihe:iti:csd:2013" xmlns:csd="urn:ihe:iti:csd:2013">
+  <organizationDirectory/>
+  <serviceDirectory/>
+  <facilityDirectory>
+    <csd:facility entityID="urn:uuid:274b1447-f120-35af-b82e-0f576c5c7c4e">
+      <csd:otherID assigningAuthorityName="http://hfrportal.ehealth.go.tz" code="id">93816</csd:otherID>
+      <csd:otherID assigningAuthorityName="https://vims.moh.go.tz" code="id">16588</csd:otherID>
+      <csd:otherID assigningAuthorityName="tanzania-hmis" code="id">bwwgPDjihb5</csd:otherID>
+      <csd:otherID assigningAuthorityName="http://hfrportal.ehealth.go.tz" code="Fac_IDNumber">104152-4</csd:otherID>
+      <csd:extension type="facilityType" urn="urn:uuid:hfrportal:ehealth:go:tz">
+        <facilityType>DSP</facilityType>
+      </csd:extension>
+      <csd:primaryName>Makuyuni</csd:primaryName>
+      <csd:organizations>
+        <csd:organization entityID="urn:uuid:3676aa2f-d5df-3f85-86e5-d11b9eb0399c"/>
+      </csd:organizations>
+      <csd:record created="2017-07-17T08:47:06.034+03:00" updated="2017-07-17T08:47:06.034+03:00" status="Active" sourceDirectory="http://hfrportal.ehealth.go.tz"/>
+      <csd:extension type="DistrictVaccineStore" urn="urn:openhie.org:openinfoman-tz">
+        <DistrictVaccineStore entityId="urn:uuid:23fd12c4-af86-3ab4-a330-c3781357db4d"/>
+      </csd:extension>
+    </csd:facility>
+    <csd:facility entityID="urn:uuid:3056b4d6-fdb0-347b-bfb7-44ee3845870e">
+      <csd:otherID assigningAuthorityName="http://hfrportal.ehealth.go.tz" code="id">89771</csd:otherID>
+      <csd:otherID code="id" assigningAuthorityName="https://vims.moh.go.tz">17676</csd:otherID>
+      <csd:otherID assigningAuthorityName="http://hfrportal.ehealth.go.tz" code="Fac_IDNumber">100107-2</csd:otherID>
+      <csd:extension type="facilityType" urn="urn:uuid:hfrportal:ehealth:go:tz">
+        <facilityType>DSP</facilityType>
+      </csd:extension>
+      <csd:primaryName>Amani</csd:primaryName>
+      <csd:organizations>
+        <csd:organization entityID="urn:uuid:3acda2bc-6f45-32dc-9c32-70760ae76f70"/>
+      </csd:organizations>
+      <csd:record created="2017-07-17T07:58:22.677+03:00" updated="2017-07-17T07:58:22.677+03:00" status="Active" sourceDirectory="http://hfrportal.ehealth.go$
+      <csd:extension type="DistrictVaccineStore" urn="urn:openhie.org:openinfoman-tz">
+        <DistrictVaccineStore entityId="urn:uuid:c8c9aa95-d307-379f-ae4f-06076c89b77f"/>
+      </csd:extension>
+    </csd:facility>
+  </facilityDirectory>
+  <providerDirectory/>
+</CSD>
